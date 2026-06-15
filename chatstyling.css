@@ -17,6 +17,10 @@ h1 {
 
 }
 
+#items{
+    padding: 20px;
+}
+
 button {
     background-color: #6770cb;
     padding: 10px;
